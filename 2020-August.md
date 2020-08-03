@@ -5,4 +5,9 @@
 * Introduction to Git and GitHub | Week 3 | Coursera
 * Introduction to Git and GitHub | Week 4 | Coursera
 
-### ...
+### 2 Agu @ 3 Hours
+* Introduction to Git and GitHub | Week 4 | Coursera
+* Troubleshooting and Debugging Techniques | Week 1 | Coursera
+
+### 3 Agu @ 4 Hours
+* Troubleshooting and Debugging Techniques | Week 1 | Coursera
